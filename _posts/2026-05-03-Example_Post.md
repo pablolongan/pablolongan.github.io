@@ -4,7 +4,7 @@ title: "Apple ResearchKit: The iPhone as a Cloud-Powered Clinical Lab"
 subtitle: "Exploring the intersection of wearable devices and biomedical research"
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [biomedicine, cloud-computing, apple, e-health]
+tags: [biomedicina, cloud-computing, apple, e-health]
 comments: true
 mathjax: true
 author: Your Name
@@ -15,13 +15,11 @@ author: Your Name
 
 ## What is Apple ResearchKit?
 
-**ResearchKit** is an open-source framework introduced by Apple that allows medical researchers to create apps for large-scale clinical studies. The key to its success is not just the hardware (iPhone or Apple Watch), but its **cloud-based architecture**.
-
-Traditionally, clinical trials were limited to a few participants visiting a local hospital. With the cloud, a researcher in London can simultaneously collect high-frequency data from 50,000 participants worldwide.
+**ResearchKit** is an open-source framework introduced by Apple that allows medical researchers to create apps for large-scale clinical studies. The key to its success is its **cloud-based architecture**, which enables real-time data collection from global participants.
 
 ### The Cloud Data Ecosystem
 
-For this "biomedical magic" to happen, three fundamental components must synchronize securely:
+For this biomedical research to happen, three fundamental components must synchronize securely:
 
 | Component | Technical Function | Role in the Cloud |
 | :--- | :--- | :--- |
@@ -33,23 +31,23 @@ For this "biomedical magic" to happen, three fundamental components must synchro
 
 ## Scientific Evidence and Real-World Impact
 
-I explored the **PubMed** database to understand the real impact of this technology. A key study by **Barker et al. (2023)** highlights the importance of interoperability in these cloud ecosystems.
+To validate the impact of this cloud application, I consulted the **PubMed** database. A highly relevant study by **Tamar Sharon (2021)** examines how Apple's ecosystem is changing clinical research.
 
-> "The ability to automatically download clinical data through cloud-based APIs represents a paradigm shift in patient empowerment." 
+> "ResearchKit and HealthKit are central to a 'go-to-market' strategy for health research that shifts data collection to the cloud, allowing for continuous monitoring outside clinical settings."
 
-Because the data is hosted and processed in the cloud, significant breakthroughs have been made in several fields:
-* **Parkinson’s Disease:** Measuring tremors and gait through the watch's accelerometer.
-* **Cardiology:** Detecting atrial fibrillation via heart rate sensors using massive datasets.
-* **Autism:** Using the front-facing camera and cloud-based AI to analyze emotional responses in children.
+
+
+Because the data is processed in the cloud, significant breakthroughs have been made in:
+* **Parkinson’s Disease:** Using the "mPower" study to track symptoms via cloud-synced sensors.
+* **Cardiology:** The Apple Heart Study, which used cloud data to detect atrial fibrillation in over 400,000 users.
 
 ## Conclusion
 
-Cloud computing in biomedicine is about more than just "storing files"—it is about the **ability to process Big Data in real-time**. Tools like ResearchKit prove that the future of medicine is mobile, connected, and, above all, cloud-resident.
+Cloud computing in biomedicine is about the **ability to process Big Data in real-time**. Tools like ResearchKit prove that the future of medicine is mobile, connected, and cloud-resident.
 
 ---
 
 ### References
 
-* Barker, W., et al. (2023). *Investigating the Interoperable Health App Ecosystem*. PMC10148309. [View on PubMed]([https://pubmed.ncbi.nlm.nih.gov/37162981/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10148309/))
-* Sharon, T. (2021). *Tactical engagements with Apple’s ResearchKit*. Taylor & Francis.
-* Apple Inc. (2023). *Privacy and ResearchKit Data White Paper*.
+* **Sharon, T. (2021).** *Tactical engagements with Apple’s ResearchKit and the emerging ecosystem of digital health.* **PubMed (PMID): 33434101**. [View on PubMed](https://pubmed.ncbi.nlm.nih.gov/33434101/)
+* **Barker, W., et al. (2023).** *Investigating the Interoperable Health App Ecosystem.* **PMC (Full Text): PMC10148309**. [View on PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10148309/)
