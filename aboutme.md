@@ -15,4 +15,4 @@ My name is Pablo Longan, I am from Barcelona and I love learning new skills. Hav
 
 ### Experience
 - Pediatric nurse at Institut Català de la Salut (2020 - 2024)
-- Data analyst at Hospital Sant Joan de Déu (2023 - present)
+- Data analyst at Hospital Sant Joan de Déu (2025 - present)
