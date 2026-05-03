@@ -50,6 +50,6 @@ Cloud computing in biomedicine is about more than just "storing files"—it is a
 
 ### References
 
-* Barker, W., et al. (2023). *Investigating the Interoperable Health App Ecosystem*. PMC10148309. [View on PubMed](https://pubmed.ncbi.nlm.nih.gov/37162981/)
+* Barker, W., et al. (2023). *Investigating the Interoperable Health App Ecosystem*. PMC10148309. [View on PubMed]([https://pubmed.ncbi.nlm.nih.gov/37162981/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10148309/))
 * Sharon, T. (2021). *Tactical engagements with Apple’s ResearchKit*. Taylor & Francis.
 * Apple Inc. (2023). *Privacy and ResearchKit Data White Paper*.
